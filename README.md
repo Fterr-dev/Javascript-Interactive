@@ -1,4 +1,4 @@
-<img width="1713" height="937" alt="Screenshot 2026-04-03 214253" src="https://github.com/user-attachments/assets/d65534e8-fbb6-4c6e-97ca-f02ec012db1e" /># JavaScript Assignment - IGIRUBUNTU Fraternite (25RP01890)
+JavaScript Assignment - IGIRUBUNTU Fraternite (25RP01890)
 
 A simple interactive web page built with **HTML, CSS, and JavaScript**.  
 This project includes dynamic DOM manipulation, event handling, a simple calculator, and a to-do list.
